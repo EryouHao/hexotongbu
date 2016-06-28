@@ -79,6 +79,8 @@ deploy:
   type: git
   repo: git@github.com:EryouHao/EryouHao.github.io.git
   branch: master
+  #github: git@github.com:EryouHao/EryouHao.github.io.git,master
+  #repo: git@git.coding.net:heyfe/heyfe.git,master
 # 设置头像
 avatar: /images/avatar.jpg
 
