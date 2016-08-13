@@ -16,3 +16,4 @@ date: 2016-06-21 14:30:14
 
 新浪微博:<a href="http://weibo.com/u/3799576961?refer_flag=1001030102_&is_hot=1">海岛心hey</a>
 My QQ:846475472
+E-mail:haoeryou@qq.com

@@ -246,7 +246,7 @@ leancloud_visitors:
 
 #不蒜子统计
 busuanzi_count:
-  enable: true
+  enable: false
   site_uv: true
   site_pv: true
   page_pv: true
