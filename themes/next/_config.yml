@@ -31,6 +31,7 @@ menu:
   tags: /tags
   demos: /demos
   about: /about
+  resume: /resume
   #commonweal: /404.html
 
 
@@ -49,7 +50,7 @@ menu_icons:
   archives: archive
   commonweal: heartbeat
   demos: code
-
+  resume: desktop
 
 
 
@@ -148,8 +149,8 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-#highlight_theme: normal
-highlight_theme: night
+highlight_theme: normal
+#highlight_theme: night
 
 
 # Automatically scroll page to section which is under <!-- more --> mark.
