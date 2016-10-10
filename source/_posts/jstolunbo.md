@@ -1,7 +1,8 @@
 ---
 title: JavaScript实现焦点轮播图思路整理
 date: 2016-08-25 17:15:46
-tags:
+tags: 组件
+categories: JavaScript
 ---
 
 轮播，轮播！你们想要的轮播来了，JavaScript实现焦点轮播图思路整理，代码js小白就可以看得懂，关键是思路，一步一步，先考虑实现，再考虑优化。轮播其实不难，demo请移步文章末尾。
