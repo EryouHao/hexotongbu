@@ -29,9 +29,10 @@ menu:
   categories: /categories
   archives: /archives
   tags: /tags
-  demos: /demos
   about: /about
   resume: /resume
+  demos: /demos
+  heyaudio: /hey-Audio
   #commonweal: /404.html
 
 
@@ -51,6 +52,7 @@ menu_icons:
   commonweal: heartbeat
   demos: code
   resume: desktop
+  heyaudio: music
 
 
 
