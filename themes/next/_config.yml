@@ -273,7 +273,8 @@ use_motion: true
 fancybox: true
 
 # Static files
-vendors: vendors
+# vendors: vendors
+vendors: lib
 css: css
 js: js
 images: images
