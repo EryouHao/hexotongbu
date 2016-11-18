@@ -3,10 +3,9 @@ title: about
 date: 2016-06-21 14:30:14
 ---
 <img src="/postimg/cainiao.jpg" class="blockquote-center">
-{% centerquote %}每只菜鸟都有鹰的梦想！{% endcenterquote %}
 
 常用ID:海岛心hey
-目前大三在校生，前端菜鸟一枚
+目前大四在校生，野生前端一枚
 文艺屌丝
 热爱前端技术
 时刻关注前端技术的发展
