@@ -5,14 +5,14 @@ menu:
   简历: http://fehey.com/resume/
   myFriends: http://fehey.com/friends/
 rss: /atom.xml
-description: 
+description:
 social:
   weibo: http://weibo.com/u/3799576961?refer_flag=1001030102_&is_hot=1
   github: https://github.com/EryouHao
-  stack_overflow: 
-  facebook: 
-  twitter: 
-  google_plus: 
+  stack_overflow:
+  facebook:
+  twitter:
+  google_plus:
 
 page_comment: true
 logo: /images/avatar.jpg
@@ -28,4 +28,3 @@ duoshuo_shortname: hexohey
 google_analytics: UA-78918255-1
 baidu_tongji: 9cdad07c755fa23f6aced510c6760e87
 favicon: /images/avatar-small.ico
-
